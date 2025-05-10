@@ -1,5 +1,5 @@
 {
-  "homepage": "https://dxr0.github.io/paradise-nurseryReact",
+  "homepage": "https://github.com/DXR0/paradise-nurseryReact.git",
   "name": "paradise-nursery",
   "version": "0.1.0",
   "private": true,
@@ -24,7 +24,6 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-
   "eslintConfig": {
     "extends": [
       "react-app",
