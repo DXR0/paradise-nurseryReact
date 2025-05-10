@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/DXR0/paradise-nurseryReact.git/static/css/main.dc4d6ff2.css",
+    "main.js": "/DXR0/paradise-nurseryReact.git/static/js/main.547e3a37.js",
+    "static/media/logo.svg": "/DXR0/paradise-nurseryReact.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/DXR0/paradise-nurseryReact.git/index.html",
+    "main.dc4d6ff2.css.map": "/DXR0/paradise-nurseryReact.git/static/css/main.dc4d6ff2.css.map",
+    "main.547e3a37.js.map": "/DXR0/paradise-nurseryReact.git/static/js/main.547e3a37.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.547e3a37.js"
+  ]
+}
